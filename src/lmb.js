@@ -1,7 +1,7 @@
 import React from "react";
 import { Hearts } from "react-loader-spinner";
 
-export default function Lmb(props) {
+export default function Lmb() {
   alert(`Beijos procê! 😘`);
 
   return (
